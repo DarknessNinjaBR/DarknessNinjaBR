@@ -38,12 +38,13 @@ programmer in May 2021.
 <img src="https://github-readme-stats.vercel.app/api/?username=DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" />
 </a>
 
-### 👨‍💻 Time worked on last week
+### 👨‍💻 Time worked on this week
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" alt="Pedro' WakaTime Stats">
 
 ### :briefcase: My GitLab Contributions
 
 [![DarknessNinjaBR GitLab Stats](https://combinedcodingstats.azurewebsites.net/gitlab/darknessninjabr?platform=github&theme=dark&animation=false)](https://github.com/DarknessNinjaBR)
+
 
 <!--
 **DarknessNinjaBR/DarknessNinjaBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
