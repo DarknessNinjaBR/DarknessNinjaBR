@@ -1,4 +1,4 @@
-# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width=25px /> Darkness here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width=35px /> Darkness here ![visitors](https://visitor-badge.glitch.me/badge?page_id=DarknessNinjaBR.visitor-badge&left_color=black&right_color=blue)
 Backend and Game-Developer moved by metal music, curiosity and positive ambition 🚀
 
 <p>
@@ -25,7 +25,7 @@ Backend and Game-Developer moved by metal music, curiosity and positive ambition
 - 🤵‍ Real name: Pedro Gomes Antunes
 - 🏳️ Country: Brasil 🇧🇷
 - 🎂 Age: 19
-- 👅 Languages: Portugues, English(basic)
+- 👅 Languages: Português(native), English(basic)
 - 💼 Work: Codex Sistemas
 - 🛈 Bio: Welcome to my github profile! My name  
 is Pedro, I've graduated at an 3 years programming  
@@ -33,7 +33,17 @@ course at technician school called Cedup Diomicio
 Freitas at December 2020, and started to work as back-end  
 programmer in May 2021.  
 
+### :octocat: My GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" />
+</a>
 
+### 👨‍💻 Time worked on last week
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" alt="Pedro' WakaTime Stats">
+
+### :briefcase: My GitLab Contributions
+
+[![DarknessNinjaBR GitLab Stats](https://combinedcodingstats.azurewebsites.net/gitlab/darknessninjabr?platform=github&theme=dark&animation=false)](https://github.com/DarknessNinjaBR)
 
 <!--
 **DarknessNinjaBR/DarknessNinjaBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
