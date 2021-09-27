@@ -48,7 +48,7 @@ programmer in May 2021.
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
-    <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src=https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
@@ -89,6 +89,14 @@ programmer in May 2021.
 ### :briefcase: My GitLab Contributions
 
 [![DarknessNinjaBR GitLab Stats](https://combinedcodingstats.azurewebsites.net/gitlab/darknessninjabr?platform=github&theme=dark&animation=false)](https://github.com/DarknessNinjaBR)
+
+## ⛩️ Altar of gratitude
+I dedicate this part of my presentation to thank the people who helped me, and who help me to be a professional and a better programmer, in the end, we are all open-source projects, any positive help is always welcome.
+
+- 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and workmate)
+- 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
+- 🥇 Jacson (Workmate)
+- 🥇 [Ivan](https://www.linkedin.com/in/ivan-zacaron-vitorassi-054951a7/) (Work boss)
 
 
 <!--
