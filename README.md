@@ -28,7 +28,7 @@ Backend and Game-Developer moved by metal music, curiosity and positive ambition
 - 🎂 Age: 19
 - 👅 Languages: Português(native), English(basic)
 - 💼 Work: Codex Sistemas
-- 🛈 Bio: Welcome to my github profile! My name  
+- ℹ️ Bio: Welcome to my github profile! My name  
 is Pedro, I've graduated at an 3 years programming  
 course at technician school called Cedup Diomicio  
 Freitas at December 2020, and started to work as back-end  
