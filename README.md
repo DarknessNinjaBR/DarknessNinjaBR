@@ -93,9 +93,9 @@ programmer in May 2021.
 ## ⛩️ Altar of gratitude
 I dedicate this part of my presentation to thank the people who helped me, and who help me to be a professional and a better programmer, in the end, we are all open-source projects, any positive help is always welcome.
 
-- 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and workmate)
+- 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and coworker)
 - 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
-- 🥇 Jacson (Workmate)
+- 🥇 Jacson (coworker)
 - 🥇 [Ivan](https://www.linkedin.com/in/ivan-zacaron-vitorassi-054951a7/) (Work boss)
 
 
