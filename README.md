@@ -16,8 +16,7 @@ Backend and Game-Developer moved by metal music, curiosity and positive ambition
 </p>
 
 <h2 align="center">🚩 About Me 🚩</h2>
-
-
+<p>
 <img align="right" src="https://i.imgur.com/b6dXM9V.gif" width="300" />
 
 ### ❓ Info
@@ -96,20 +95,4 @@ I dedicate this part of my presentation to thank the people who helped me, and w
 - 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and coworker)
 - 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
 - 🥇 Jacson (coworker)
-- 🥇 [Ivan](https://www.linkedin.com/in/ivan-zacaron-vitorassi-054951a7/) (Work boss)
-
-
-<!--
-**DarknessNinjaBR/DarknessNinjaBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
