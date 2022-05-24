@@ -17,7 +17,7 @@ Backend and Game-Developer moved by metal music, curiosity and positive ambition
 
 <h2 align="center">🚩 About Me 🚩</h2>
 <p>
-<img align="right" src="https://i.imgur.com/b6dXM9V.gif" width="300" />
+<img align="right" src="https://i.imgur.com/b6dXM9V.gif" width="200" />
 
 ### ❓ Info
 
