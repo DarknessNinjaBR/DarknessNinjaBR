@@ -1,4 +1,4 @@
-# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width=10px /> Darkness here ![visitors](https://visitor-badge.glitch.me/badge?page_id=DarknessNinjaBR.visitor-badge&left_color=black&right_color=blue)
+# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width=35px /> Darkness here ![visitors](https://visitor-badge.glitch.me/badge?page_id=DarknessNinjaBR.visitor-badge&left_color=black&right_color=blue)
 Backend and Game-Developer moved by metal music, curiosity and positive ambition 🚀
 
 <p>
@@ -32,7 +32,8 @@ is Pedro, I've graduated at an 3 years programming
 course at technician school called Cedup Diomicio  
 Freitas at December 2020, and started to work as back-end  
 programmer in May 2021.  
-
+</p>
+	
 ### 🤖 Tools and Technologies
 
 - I know essentials or deepened knowledge
@@ -95,4 +96,3 @@ I dedicate this part of my presentation to thank the people who helped me, and w
 - 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and coworker)
 - 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
 - 🥇 Jacson (coworker)
-</p>
