@@ -11,7 +11,7 @@ Backend and Game-Developer moved by metal music, curiosity and positive ambition
     <a href="https://twitter.com/DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-219bf0?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/DarknessNinjaBR" alt="Facebook Badge"></a> 
     <a href="https://www.instagram.com/darknessninjabr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@darknessninjabr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/darknessninjabr/" alt="Instagram Badge"></a>
     <a href="https://www.youtube.com/channel/UCdyF5gbQGowiXuXiF5qiHSw" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-✞%20DarknessNinjaBR%20✞-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdyF5gbQGowiXuXiF5qiHSw" alt="Youtube Badge"></a> 
-    <a href="https://www.youtube.com/channel/UCdyF5gbQGowiXuXiF5qiHSw" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-white?style=flat&logo=twitch&logoColor=9147ff&link=https://www.twitch.tv/darknessninjabr" alt="Twitch Badge"></a> 
+    <a href="https://www.twitch.tv/darknessninjabr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-white?style=flat&logo=twitch&logoColor=9147ff&link=https://www.twitch.tv/darknessninjabr" alt="Twitch Badge"></a> 
     
 </p>
 
