@@ -34,7 +34,10 @@ Freitas at December 2020, and started to work as back-end
 programmer in May 2021.  
 </p>
 	
-### 🤖 Tools and Technologies
+<details>
+<summary>
+🤖 Tools and Technologies
+</summary>
 
 - I know essentials or deepened knowledge
 
@@ -75,24 +78,46 @@ programmer in May 2021.
     <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Photoshop">
 
 </p>
+</details>
 
-	
+<details>
+<summary>
+:octocat: My GitHub Stats
+</summary>
 
-### :octocat: My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/?username=DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" />
 </a>
 
-### 👨‍💻 Time worked on this week
+</details>
+
+<details>
+<summary>
+👨‍💻 Time worked on this week
+</summary>
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" alt="Pedro' WakaTime Stats">
 
-### :briefcase: My GitLab Contributions
+</details>
 
-[![DarknessNinjaBR GitLab Stats](https://combinedcodingstats.azurewebsites.net/gitlab/darknessninjabr?platform=github&theme=dark&animation=false)](https://github.com/DarknessNinjaBR)
+<details>
+<summary>
+:briefcase: My GitLab Contributions
+</summary>
 
-## ⛩️ Altar of gratitude
+[![DarknessNinjaBR GitLab Stats](https://mydevmetrics.azurewebsites.net/GitLab/darknessninjabr?platform=github&theme=dark&animation=false)](https://gitlab.com/DarknessNinjaBR)
+
+</details>
+
+<details>
+<summary>
+⛩️ Altar of gratitude
+</summary>
+
 I dedicate this part of my presentation to thank the people who helped me, and who help me to be a professional and a better programmer, in the end, we are all open-source projects, any positive help is always welcome.
 
 - 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and coworker)
-- 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
 - 🥇 Jacson (coworker)
+- 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
+
+</details>
