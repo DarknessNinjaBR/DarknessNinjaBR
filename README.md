@@ -86,7 +86,7 @@ programmer in May 2021.
 </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/?username=DarknessNinjaBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" />
+<img src="https://github-readme-stats.vercel.app/api/?username=PedroDNBR&show_icons=true&title_color=fff&icon_color=2b7af3&text_color=f0f8ff&bg_color=1c1c1d" />
 </a>
 
 </details>
