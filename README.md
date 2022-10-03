@@ -25,7 +25,7 @@ Backend and Game-Developer moved by metal music, curiosity and positive ambition
 - 🤵‍ Real name: Pedro Gomes Antunes
 - 🏳️ Country: Brasil 🇧🇷
 - 🎂 Age: 20
-- 👅 Languages: Português(native), English(basic)
+- 👅 Languages: Português(native), English(intermediate)
 - 💼 Work: Codex Sistemas
 - ℹ️ Bio: Welcome to my github profile! My name  
 is Pedro, I've graduated at an 3 years programming  
