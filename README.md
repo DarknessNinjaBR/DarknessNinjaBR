@@ -1,5 +1,5 @@
 # Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width="30" /> Pedro here ![visitors](https://visitor-badge.glitch.me/badge?page_id=DarknessNinjaBR.visitor-badge&left_color=black&right_color=blue)
-Backend and Game-Developer moved by metal music, curiosity and positive ambition 🚀
+Fullstack and Game-Developer moved by metal music, curiosity and positive ambition 🚀
 
 <p>
     <a href="https://steamcommunity.com/id/DarknessNinjaBR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-black?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/DarknessNinjaBR/" alt="Steam Badge"></a> 
