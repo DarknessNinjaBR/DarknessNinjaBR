@@ -105,7 +105,7 @@ programmer in May 2021.
 :briefcase: My GitLab Contributions
 </summary>
 
-- Since Sep 27, 2022 the company I work at changed for a internal gitlab instance, so this stats is now outdated, but if you click on it, the profile is correct
+- Since Sep 27, 2022 the company I work at changed for a internal gitlab instance, so this stats are now outdated, but if you click on it, the profile is correct
 
 
 [![DarknessNinjaBR GitLab Stats](https://mydevmetrics.azurewebsites.net/GitLab/darknessninjabr?platform=github&theme=dark&animation=false)](https://gitlab.tecimob.com.br/PedroGomesDNBR)
