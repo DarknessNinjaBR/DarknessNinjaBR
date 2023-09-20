@@ -102,25 +102,16 @@ programmer in May 2021.
 
 <details>
 <summary>
-:briefcase: My GitLab Contributions
-</summary>
-
-- Since Sep 27, 2022 the company I work at changed for a internal gitlab instance, so this stats are now outdated, but if you click on it, the profile is correct
-
-
-[![DarknessNinjaBR GitLab Stats](https://mydevmetrics.azurewebsites.net/GitLab/darknessninjabr?platform=github&theme=dark&animation=false)](https://gitlab.tecimob.com.br/PedroGomesDNBR)
-
-</details>
-
-<details>
-<summary>
 ⛩️ Altar of gratitude
 </summary>
 
 I dedicate this part of my presentation to thank the people who helped me, and who help me to be a professional and a better programmer, in the end, we are all open-source projects, any positive help is always welcome.
 
-- 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and coworker)
-- 🥇 Jacson (coworker)
-- 🥇 [Alves](https://github.com/windstonp) (Friend and schoolmate)
+- 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and ex-coworker)
+- 🥇 [Jacson](https://www.linkedin.com/in/jacson-feuser-joaquim-26153b225/) (Friend, ex-coworker)
+- 🥇 [Alves](https://github.com/windstonp) (Friend, schoolmate ex-coworker)
+- 🥇 [Jorge](https://www.linkedin.com/in/jorge-correa-a0929714/) (Coworker)
+- 🥇 [Rafa](https://www.linkedin.com/in/rquirogah) (Coworker)
+- 🥇 [Mario](https://www.linkedin.com/in/mario-estuardo-g%C3%B3mez-orellana/) (Coworker)
 
 </details>
