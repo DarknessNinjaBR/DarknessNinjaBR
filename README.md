@@ -1,4 +1,4 @@
-# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width="30" /> Pedro here ![visitors](https://visitor-badge.glitch.me/badge?page_id=DarknessNinjaBR.visitor-badge&left_color=black&right_color=blue)
+# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width="30" /> Pedro here [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPedroDNBR&labelColor=%235a5a5a&countColor=%230173b4&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPedroDNBR)
 Fullstack and Game-Developer moved by metal music, curiosity and positive ambition 🚀
 
 <p>
