@@ -25,8 +25,8 @@ Fullstack and Game-Developer moved by metal music, curiosity and positive ambiti
 - 🤵‍ Real name: Pedro Gomes Antunes
 - 🏳️ Country: Brasil 🇧🇷
 - 🎂 Age: 20
-- 👅 Languages: Português(native), English(intermediate)
-- 💼 Work: Codex Sistemas
+- 👅 Languages: Português(native), English(Advanced)
+- 💼 Work: Hotels at Home
 - ℹ️ Bio: Welcome to my github profile! My name  
 is Pedro, I've graduated at an 3 years programming  
 course at technician school called Cedup Diomicio  
