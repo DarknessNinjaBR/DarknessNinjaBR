@@ -111,8 +111,8 @@ I dedicate this part of my presentation to thank the people who helped me, and w
 - 🥇 [Douglas](https://github.com/doougui) (Friend, schoolmate and ex-coworker)
 - 🥇 [Jacson](https://www.linkedin.com/in/jacson-feuser-joaquim-26153b225/) (Friend, ex-coworker)
 - 🥇 [Alves](https://github.com/windstonp) (Friend, schoolmate ex-coworker)
-- 🥇 [Jorge](https://www.linkedin.com/in/jorge-correa-a0929714/) (Coworker)
-- 🥇 [Rafa](https://www.linkedin.com/in/rquirogah) (Coworker)
-- 🥇 [Mario](https://www.linkedin.com/in/mario-estuardo-g%C3%B3mez-orellana/) (Coworker)
+- 🥇 [Parth](https://www.linkedin.com/in/parthpatel7692/) (Ex-coworker)
+- 🥇 [Rafa](https://www.linkedin.com/in/rquirogah) (Ex-coworker)
+- 🥇 [Mario](https://www.linkedin.com/in/mario-estuardo-g%C3%B3mez-orellana/) (Ex-coworker)
 
 </details>
