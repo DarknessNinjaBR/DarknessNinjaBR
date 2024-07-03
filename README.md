@@ -26,7 +26,7 @@ Fullstack and Game-Developer moved by metal music, curiosity and positive ambiti
 - 🏳️ Country: Brasil 🇧🇷
 - 🎂 Age: 22
 - 👅 Languages: Português(native), English(Advanced)
-- 💼 Work: Hotels at Home
+- 💼 Work: Available for opportunities
 - ℹ️ Bio: Welcome to my github profile! My name  
 is Pedro, I've graduated at an 3 years programming  
 course at technician school called Cedup Diomicio  
