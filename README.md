@@ -28,7 +28,7 @@ Game-Developer moved by metal music, curiosity and positive ambition 🚀
 - 👅 Languages: Português(native), English(Advanced)
 - 💼 Work: SENAI Soluções Digitais
 - ℹ️ Bio: Welcome to my github profile!
-My name is Pedro, a passionate indie and professional game developer, I started in 2021 as a full-stack developer and in 2023 I changed my career to my true passion, making games and 3D applications, including desktop, mobile, VR, AR and MX.
+My name is Pedro, a passionate indie and professional game developer, I started in 2021 as a full-stack developer and in 2024 I changed my career to my true passion, making games and 3D applications, including desktop, mobile, VR, AR and MX.
 </p>
 	
 <details>
