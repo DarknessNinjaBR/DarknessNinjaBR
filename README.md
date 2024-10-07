@@ -26,12 +26,9 @@ Game-Developer moved by metal music, curiosity and positive ambition 🚀
 - 🏳️ Country: Brasil 🇧🇷
 - 🎂 Age: 22
 - 👅 Languages: Português(native), English(Advanced)
-- 💼 Work: Available for opportunities
-- ℹ️ Bio: Welcome to my github profile! My name  
-is Pedro, I've graduated at an 3 years programming  
-course at technician school called Cedup Diomicio  
-Freitas at December 2020, and started to work as back-end  
-programmer in May 2021.  
+- 💼 Work: SENAI Soluções Digitais
+- ℹ️ Bio: Welcome to my github profile!
+My name is Pedro, a passionate indie and professional game developer, I started in 2021 as a full-stack developer and in 2023 I changed my career to my true passion, making games and 3D applications, including desktop, mobile, VR, AR and MX.
 </p>
 	
 <details>
