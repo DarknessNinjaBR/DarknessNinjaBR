@@ -1,7 +1,8 @@
-# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width="30" /> Pedro here [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPedroDNBR&labelColor=%235a5a5a&countColor=%230173b4&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPedroDNBR)
+# Hello, <img src ="https://i.imgur.com/JiUhd2s.gif" width="30" /> <a href="https://pedrogom.es/" target="_blank" rel="noreferrer">Pedro</a> here [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPedroDNBR&labelColor=%235a5a5a&countColor=%230173b4&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPedroDNBR)
 Game-Developer moved by metal music, curiosity and positive ambition 🚀
 
 <p>
+    <a href="https://pedrogom.es/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-black?style=flat&logo=internetcomputer&logoColor=white" alt="My website"</a> 
     <a href="https://steamcommunity.com/id/DarknessNinjaBR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-black?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/DarknessNinjaBR/" alt="Steam Badge"></a> 
     <img src="https://img.shields.io/badge/-darknessninjabr-535fee?style=flat&logo=discord&logoColor=white&link=darknessninjabr" alt="Discord Badge"> 
     <a href="https://gitlab.com/DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-white?style=flat&logo=gitlab&logoColor=orange&link=https://gitlab.com/DarknessNinjaBR" alt="Gitlab Badge"></a> 
