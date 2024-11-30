@@ -3,14 +3,14 @@ Game-Developer moved by metal music, curiosity and positive ambition 🚀
 
 <p>
     <a href="https://steamcommunity.com/id/DarknessNinjaBR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-black?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/DarknessNinjaBR/" alt="Steam Badge"></a> 
-    <img src="https://img.shields.io/badge/-DarknessNinjaBR@6883-535fee?style=flat&logo=discord&logoColor=white&link=DarknessNinjaBR@6883" alt="Discord Badge"> 
-    <a href="https://gitlab.com/DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-white?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/DarknessNinjaBR" alt="Gitlab Badge"></a> 
+    <img src="https://img.shields.io/badge/-darknessninjabr-535fee?style=flat&logo=discord&logoColor=white&link=darknessninjabr" alt="Discord Badge"> 
+    <a href="https://gitlab.com/DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-white?style=flat&logo=gitlab&logoColor=orange&link=https://gitlab.com/DarknessNinjaBR" alt="Gitlab Badge"></a> 
     <a href="https://gamejolt.com/@DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-111?style=flat&logo=gamejolt&logoColor=white&link=https://gamejolt.com/@DarknessNinjaBR" alt="Youtube Badge"></a> 
     <a href="https://www.linkedin.com/in/pedrodnbr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@pedrodnbr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/pedrodnbr/" alt="LinkedIn Badge"></a> 
     <a href="https://www.facebook.com/PedroDNBR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Pedro%20Gomes%20Antunes-0268e2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/PedroDNBR/" alt="Facebook Badge"></a> 
-    <a href="https://twitter.com/DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-219bf0?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/DarknessNinjaBR" alt="Facebook Badge"></a> 
-    <a href="https://www.instagram.com/darknessninjabr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@darknessninjabr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/darknessninjabr/" alt="Instagram Badge"></a>
-    <a href="https://www.youtube.com/channel/UCdyF5gbQGowiXuXiF5qiHSw" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-✞%20DarknessNinjaBR%20✞-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdyF5gbQGowiXuXiF5qiHSw" alt="Youtube Badge"></a> 
+    <a href="https://twitter.com/DarknessNinjaBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@DarknessNinjaBR-111?style=flat&logo=x&logoColor=white&link=https://twitter.com/DarknessNinjaBR" alt="Facebook Badge"></a> 
+    <a href="https://www.instagram.com/pedrodnbr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@pedrodnbr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrodnbr/" alt="Instagram Badge"></a>
+    <a href="https://www.youtube.com/@PedroDNBR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@PedroDNBR-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@PedroDNBR" alt="Youtube Badge"></a> 
     <a href="https://www.twitch.tv/darknessninjabr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-DarknessNinjaBR-white?style=flat&logo=twitch&logoColor=9147ff&link=https://www.twitch.tv/darknessninjabr" alt="Twitch Badge"></a> 
     
 </p>
